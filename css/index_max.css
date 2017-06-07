@@ -127,6 +127,9 @@ form input{
 	overflow: hidden;
 	border-radius: 4px;
 }
+.zd_type{
+	margin-top: 5px;
+}
 form select{
 	width: 390px;
 	height: 45px;

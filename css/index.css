@@ -125,6 +125,9 @@ form option{
 	overflow: hidden;
 	border-radius: 0.1rem;
 }
+.zd_type{
+	margin-top: 0.125rem;
+}
 form select{
 	width: 9.75rem;
 	height: 1.125rem;
