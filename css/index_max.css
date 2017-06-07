@@ -1,4 +1,4 @@
-*{margin: 0;padding: 0;font-family: "微软雅黑" !important;}
+*{margin: 0;padding: 0;font-family: "Microsoft YaHei" !important;}
 body,html{
 	width: 720px;
 	margin: 0 auto;
@@ -7,6 +7,7 @@ body,html{
 li{ list-style:none; }
 a{ text-decoration:none; }
 img{ vertical-align:top; }
+*{outline:none;}
 header{
 	width: 720px;
 	height: 50px;
