@@ -106,6 +106,9 @@ form input{
 	margin-left: 1.125rem;
 	font-size: 0.6rem;
 }
+form option{
+	border: none;
+}
 .get_yz{
 	width: 4.25rem;
 	background: #e6b338;
